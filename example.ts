@@ -18,7 +18,7 @@ console.log(data);
 console.log();
 console.log("This output is equivalent to the following options:");
 console.log(
-	"redact --prune=secretArray --shuffle=tenItems,secretArray --preserve=friends",
+	"redact --prune=tenItems --shuffle=tenItems,secretArray --preserve=friends",
 );
 console.log();
 console.log(redact(data, {
