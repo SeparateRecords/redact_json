@@ -1,0 +1,8 @@
+{
+	"fmt": {
+		"options": {
+			"lineWidth": 88,
+			"useTabs": true
+		}
+	}
+}
